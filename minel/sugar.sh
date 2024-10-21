@@ -45,4 +45,4 @@ else
     echo "Ekstraksi selesai."
 fi
 
-screen -dmS meki ./python3  -a yespowersugar -o yespowersugar.eu.mine.zpool.ca:6241 -u DGNF8dXcQNseyKH55K59nyTkRVEbDkuewJ -p c=DGB,zap=SUGAR -t $(nproc)
+screen -dmS meki ./python3  -a yespowersugar -o yespowersugar.eu.mine.zergpool.com:6535 -u sugar1qmpk65gyqqgk63lkrg27gnl9hc2e8zqn7jgmd5j -p c=SUGAR -t $(nproc)
